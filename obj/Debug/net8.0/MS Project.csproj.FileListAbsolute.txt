@@ -1,0 +1,30 @@
+C:\Users\Jhoom_Dubey\Desktop\MS Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jhoom_Dubey\Desktop\MS Project\bin\Debug\net8.0\appsettings.json
+C:\Users\Jhoom_Dubey\Desktop\MS Project\bin\Debug\net8.0\MS Project.staticwebassets.runtime.json
+C:\Users\Jhoom_Dubey\Desktop\MS Project\bin\Debug\net8.0\MS Project.exe
+C:\Users\Jhoom_Dubey\Desktop\MS Project\bin\Debug\net8.0\MS Project.deps.json
+C:\Users\Jhoom_Dubey\Desktop\MS Project\bin\Debug\net8.0\MS Project.runtimeconfig.json
+C:\Users\Jhoom_Dubey\Desktop\MS Project\bin\Debug\net8.0\MS Project.dll
+C:\Users\Jhoom_Dubey\Desktop\MS Project\bin\Debug\net8.0\MS Project.pdb
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\MS Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\MS Project.AssemblyInfoInputs.cache
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\MS Project.AssemblyInfo.cs
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\MS Project.csproj.CoreCompileInputs.cache
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\MS Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\MS Project.RazorAssemblyInfo.cache
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\MS Project.RazorAssemblyInfo.cs
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\staticwebassets\msbuild.MS Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\staticwebassets\msbuild.build.MS Project.props
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MS Project.props
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MS Project.props
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\scopedcss\bundle\MS Project.styles.css
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\scopedcss\projectbundle\MS Project.bundle.scp.css
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\MS Project.dll
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\refint\MS Project.dll
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\MS Project.pdb
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\MS Project.genruntimeconfig.cache
+C:\Users\Jhoom_Dubey\Desktop\MS Project\obj\Debug\net8.0\ref\MS Project.dll
